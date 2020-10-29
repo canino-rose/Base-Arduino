@@ -1,0 +1,3 @@
+This is the base code for setting up Arduino in VSCode.
+
+Dr. Canino
